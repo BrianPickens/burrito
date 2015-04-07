@@ -1,0 +1,26 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Brian\Documents\UNITY PROJECTS FOLDER\BlockBrosTest\BlockBrosNewMovement_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Brian\Documents\UNITY PROJECTS FOLDER\BlockBrosTest\BlockBrosNewMovement_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Brian\Documents\UNITY PROJECTS FOLDER\BlockBrosTest\BlockBrosNewMovement_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Brian\Documents\UNITY PROJECTS FOLDER\BlockBrosTest\BlockBrosNewMovement_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Brian\Documents\UNITY PROJECTS FOLDER\BlockBrosTest\BlockBrosNewMovement_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Brian\Documents\UNITY PROJECTS FOLDER\BlockBrosTest\BlockBrosNewMovement_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.034 seconds
+desktop: 1360x768 60Hz; virtual: 1360x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Brian\Documents\UNITY PROJECTS FOLDER\BlockBrosTest\BlockBrosNewMovement_Data\Managed\System.Core.dll (this message is harmless)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.515688 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 553.
+Total: 0.241495 ms (FindLiveObjects: 0.036224 ms CreateObjectMapping: 0.026564 ms MarkObjects: 0.171763 ms  DeleteObjects: 0.006339 ms)
+
